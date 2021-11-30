@@ -1,3 +1,39 @@
-body {
-
+h2 { 
+  color: black;
+  font-size: 200%;
+  border:dashed 3px blue;
 }
+body { 
+  background-color: purple;
+}
+h2 {
+  text-shadow: 2px 2px;
+}
+li,p{
+  color: blue;
+  font-size: 35px;
+}
+
+ul {
+  text-align: left;
+  list-style: inside;
+  list-style-type: square;
+}
+
+table, tr, td , th{
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding:20px;
+}
+table{
+  width: 60%
+}
+
+tr:hover { 
+ background-color: white;
+}
+
+tr:nth-child(even) {background-color: gold;}
+
+tr:nth-child(even):hover {background color: white;}
+
