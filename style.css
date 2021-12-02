@@ -37,3 +37,34 @@ tr:nth-child(even) {background-color: gold;}
 
 tr:nth-child(even):hover {background color: white;}
 
+h1 {
+  text-align: center;
+  color: white;
+}
+
+body { 
+  background-color: green;
+}
+ul{
+  list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  position: fixed; 
+  margain: 0;
+  top: 0;
+ 
+  
+}
+
+li a {
+  display: block;
+  float: left;
+  padding: 15px;
+  color: green;
+  background-color: white;
+    
+}
+img{ 
+ border: white dashed 4px;
+ border-radius: 200%
+}
