@@ -1,0 +1,15 @@
+<html>
+  
+  <body>
+    <ul>
+      <li><a href="index.html"> Home </a></li>
+      <li><a href="nameofmy"> About </a></li>
+      <li><a href="jaydenreed.html"> Jayden Reed </a></li>
+      <li><a href="https://www.mlive.com/spartans/2021/12/michigan-states-outlook-for-landing-a-spot-in-new-years-six-bowl-game.html"> Michigan State </a></li>
+    </ul>
+    <h1> Jayden Reed </h1>
+    <center>
+    <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnfV4HedQNd_hucpZsTsLtN3m8k-3jQXAlwA&usqp=CAU" height="300" >
+  </body>
+  
+</html>
