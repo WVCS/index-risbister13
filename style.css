@@ -9,15 +9,32 @@ body {
 h2 {
   text-shadow: 2px 2px;
 }
-li,p{
+#jeff,p{
   color: blue;
   font-size: 35px;
 }
+ul{
+  list-style-type: none;
+  width: 100%;
+  overflow: hidden;
+  position: fixed; 
+  margain: 0;
+  top: 0;
+  
+}
 
-ul {
+li a {
+  display: block;
+  float: left;
+  padding: 15px;
+  color: green;
+  background-color: white;
+}
+#jeffs {
   text-align: left;
   list-style: inside;
   list-style-type: square;
+  
 }
 
 table, tr, td , th{
@@ -36,19 +53,6 @@ tr:hover {
 tr:nth-child(even) {background-color: gold;}
 
 tr:nth-child(even):hover {background color: white;}
-
-h1 {
-  text-align: center;
-  color: white;
-}
-
-body { 
-  background-color: green;
-}
-ul{
-  list-style-type: none;
-  width: 100%;
-  overflow: hidden;
   position: fixed; 
   margain: 0;
   top: 0;
